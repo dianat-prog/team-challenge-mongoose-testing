@@ -45,3 +45,9 @@ La estructura será la siguiente:
 # PISTAS:
 - Investiga que es skip y limit: https://mongoosejs.com/docs/api/query.html#Query.prototype.skip()
 - Investiga como implementar validaciones con mongoose: https://mongoosejs.com/docs/validation.html
+
+
+instalamos
+npm init -y
+
+npm i -D supertest
